@@ -1,0 +1,1 @@
+export let navItem = [{id:1,name:'HOME'}, {id:2,name:'COMPANY'}, {id:3,name:'RESOURCES'}, {id:4,name:'ABOUT'}, {id:5,name:'CONTACT'}]
